@@ -3,9 +3,7 @@
 | Séance | Document | Pour qui | Pages |
 |--------|----------|----------|-------|
 | 1 | [`seance-01-etudiant.pdf`](seance-01-etudiant.pdf) | à distribuer aux élèves | 8 |
-| 1 | [`seance-01-prof.pdf`](seance-01-prof.pdf) | vous — déroulé minuté, notes de parole, croquis au tableau, corrigés | 10 |
 | 2 | [`seance-02-etudiant.pdf`](seance-02-etudiant.pdf) | à distribuer aux élèves | 12 |
-| 2 | [`seance-02-prof.pdf`](seance-02-prof.pdf) | vous — déroulé minuté, démonstrations, croquis au tableau, corrigés | 16 |
 | 2 | [`exercices-seance-02.md`](exercices-seance-02.md) | à distribuer aux élèves — deux exercices, sans corrigé | — |
 
 **Séance 1** — 2 heures : culture DevOps (module 1) et Git en équipe (module 2),
